@@ -17,11 +17,10 @@
 - 🌱 I’m currently learning React, React Native, Express.js
 - 👯 I’m looking to collaborate on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb)
 - 🤔 I’m looking for help with Firebase Firestore, React, and Scala.
-<!-- 💬 Ask me about how I almost drowned in the Nile River. -->
 - 📫 How to reach me: [tiffanynitk@gmail.com](mailto:tiffanynitk@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I almost drowned in the Nile River.
-
+<!-- 💬 Ask me about how I almost drowned in the Nile River. -->
 <br />
 <br />
 Languages and Tools: 

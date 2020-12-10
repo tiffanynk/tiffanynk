@@ -14,9 +14,9 @@
 <br />
 
 - 👩🏾‍💻 I’m currently working on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb)
-- 🌱 I’m currently learning React, React Native, Express.js
+- 🌱 I’m currently learning React, React Native, Node.js, and MongoDB.
 - 👯 I’m looking to collaborate on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb)
-- 🤔 I’m looking for help with Firebase Firestore, React, and Scala.
+- 🤔 I’m looking for help with AWS and complex data structures.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I almost drowned in the Nile River.
 <!-- 💬 Ask me about how I almost drowned in the Nile River. -->

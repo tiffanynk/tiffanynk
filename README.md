@@ -13,11 +13,11 @@
 <br />
 <br />
 
-👩🏾‍💻   I’m currently working on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb)
+👩🏾‍💻   I’m currently working on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb-capstone)
 <br/>
 🌱   I’m currently learning React, React Native, Express.js, Node.js, and MongoDB.
 <br/>
-👯   I’m looking to collaborate on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb)
+👯   I’m looking to collaborate on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb-capstone)
 <br/>
 🤔   I’m looking for help with AWS and complex data structures.
 <br/>

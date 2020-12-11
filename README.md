@@ -13,12 +13,17 @@
 <br />
 <br />
 
-- 👩🏾‍💻 I’m currently working on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb)
-- 🌱 I’m currently learning React, React Native, Express.js, Node.js, and MongoDB.
-- 👯 I’m looking to collaborate on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb)
-- 🤔 I’m looking for help with AWS and complex data structures.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I almost drowned in the Nile River.
+👩🏾‍💻   I’m currently working on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb)
+<br/>
+🌱   I’m currently learning React, React Native, Express.js, Node.js, and MongoDB.
+<br/>
+👯   I’m looking to collaborate on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb)
+<br/>
+🤔   I’m looking for help with AWS and complex data structures.
+<br/>
+😄   Pronouns: she/her
+<br/>
+⚡   Fun fact: I almost drowned in the Nile River.
 <!-- 💬 Ask me about how I almost drowned in the Nile River. -->
 <br />
 <br />

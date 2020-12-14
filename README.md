@@ -15,7 +15,7 @@
 
 👩🏾‍💻   I’m currently working on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb-capstone)
 <br/>
-🌱   I’m currently learning React, React Native, Express.js, Node.js, and MongoDB.
+🌱   I’m currently learning React Native, Express.js, Node.js, MongoDB, and how to create Progressive Web Apps.
 <br/>
 👯   I’m looking to collaborate on [Womxn Who Climb](https://github.com/tiffanynk/womxn-who-climb-capstone)
 <br/>

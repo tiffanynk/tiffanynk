@@ -15,7 +15,9 @@
 
 👩🏾‍💻   I’m currently working on [Women Who Climb](https://github.com/tiffanynk/women-who-climb-capstone)
 <br/>
-🌱   I’m currently learning React Native, Express.js, Node.js, MongoDB, and how to create Progressive Web Apps.
+🌱   I’m currently learning React Native, Express.js, Node.js, and how to create Progressive Web Apps.
+<br/>
+💡   I'm looking forward to learning Python, Django, and TypeScript.
 <br/>
 👯   I’m looking to collaborate on [Women Who Climb](https://github.com/tiffanynk/womxn-who-climb-capstone)
 <br/>

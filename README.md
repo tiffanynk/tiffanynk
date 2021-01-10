@@ -17,11 +17,11 @@
 <br/>
 🌱   I’m currently learning React Native, Express.js, Node.js, and how to create Progressive Web Apps.
 <br/>
-💡   I'm looking forward to learning Python, Django, and TypeScript.
+💡   I'm looking forward to learning Ember, Next.js, and TypeScript.
 <br/>
 👯   I’m looking to collaborate on [Women Who Climb](https://github.com/tiffanynk/womxn-who-climb-capstone)
 <br/>
-🤔   I’m looking for help with AWS and complex data structures.
+🤔   I’m looking for help with PWAs and complex data structures.
 <br/>
 😄   Pronouns: she/her
 <br/>

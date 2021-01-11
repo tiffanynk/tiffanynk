@@ -14,13 +14,13 @@
 <br />
 🏆 SheHacks 2020 Wolfram Alpha Award | Best Use of Google Cloud - Team Trash Panda <a href="https://trash-panda-shehacks.web.app/">Trash Panda Live</a> | <a href="https://github.com/tiffanynk/trash-panda-fe">Trash Panda Repo</a>
 <br/>
-👩🏾‍💻   I’m currently working on [Women Who Climb](https://github.com/tiffanynk/women-who-climb-capstone)
+👩🏾‍💻   I’m currently working on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
 <br/>
 🌱   I’m currently learning React Native, Express.js, Node.js, and how to create Progressive Web Apps.
 <br/>
 💡   I'm looking forward to learning Ember, Next.js, and TypeScript.
 <br/>
-👯   I’m looking to collaborate on [Women Who Climb](https://github.com/tiffanynk/womxn-who-climb-capstone)
+👯   I’m looking to collaborate on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
 <br/>
 🤔   I’m looking for help with PWAs and complex data structures.
 <br/>

@@ -22,7 +22,7 @@
 <br/>
 👯   I’m looking to collaborate on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
 <br/>
-🤔   I’m looking for help with PWAs and complex data structures.
+🤔   I’m looking for help with responsive design and complex data structures.
 <br/>
 😄   Pronouns: she/her
 <br/>

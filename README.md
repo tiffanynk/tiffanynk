@@ -16,9 +16,9 @@
 <br/>
 👩🏾‍💻   I’m currently working on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
 <br/>
-🌱   I’m currently learning React Native, Express.js, Node.js, and how to create Progressive Web Apps.
+🌱   I’m currently learning React Native and Django.
 <br/>
-💡   I'm looking forward to learning Ember, Next.js, and TypeScript.
+💡   I'm looking forward to learning Next.js and TypeScript.
 <br/>
 👯   I’m looking to collaborate on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
 <br/>

@@ -1,6 +1,6 @@
 ### Hi there, I'm Tiffany! 👋🏾
 
-<a href="https://twitter.com/tiffanynk">
+<a href="https://twitter.com/tiffanynitk">
   <img align="left" alt="Tiffany Kanjanabout | Twitter" width="21px" src="https://i.ibb.co/4VQGTRp/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/tiffany-kanjanabout/">

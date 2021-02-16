@@ -14,7 +14,8 @@
 <br />
 🏆 SheHacks 2020 Wolfram Alpha Award | Best Use of Google Cloud - Team Trash Panda <a href="https://trash-panda-shehacks.web.app/">Trash Panda Live</a> | <a href="https://github.com/tiffanynk/trash-panda-fe">Trash Panda Repo</a>
 <br/>
-👩🏾‍💻   I’m currently working on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
+🛠  I'm currently participating in <a href="https://www.developerweek.com/events/hackathon/">Developer Week's Hackathon</a>.
+👩🏾‍💻   I’m currently working on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a> and <a href="https://github.com/sydneygold/dmveasy-frontend">DMVeasy</a>.
 <br/>
 🌱   I’m currently learning React Native and Django.
 <br/>

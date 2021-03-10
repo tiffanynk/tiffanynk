@@ -15,13 +15,13 @@
 <br />
 🏆 SheHacks 2020 Wolfram Alpha Award | Best Use of Google Cloud - Team Trash Panda <a href="https://trash-panda-shehacks.web.app/">Trash Panda Live</a> | <a href="https://github.com/tiffanynk/trash-panda-fe">Trash Panda Repo</a>
 <br/>
-🛠 👩🏾‍💻   I’m currently working on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a> and <a href="https://github.com/sydneygold/dmveasy-frontend">DMVeasy</a>.
+👩🏾‍💻   I’m currently working on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a> and <a href="https://github.com/sydneygold/dmveasy-frontend">DMVeasy</a>.
 <br/>
 🌱   I’m currently learning React Native and delving deeper into styling with Material UI.
 <br/>
-💡   I'm looking forward to learning Next.js and TypeScript.
+💡    I'm looking forward to learning Next.js and TypeScript.
 <br/>
-👯   I’m looking to collaborate on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
+🛠    I’m looking to collaborate on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
 <br/>
 🤔   I’m looking for help with responsive design and complex data structures.
 <br/>

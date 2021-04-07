@@ -17,9 +17,9 @@
 <br/>
 👩🏾‍💻   I’m currently working on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a> and <a href="https://github.com/sydneygold/dmveasy-frontend">DMVeasy</a>.
 <br/>
-🌱   I’m currently learning React Native and delving deeper into styling with Material UI.
+🌱   I’m currently learning Next.js, Elixir, and GraphQL.
 <br/>
-💡    I'm looking forward to learning Next.js and TypeScript.
+💡    I'm looking forward to learning Apollo + Apollo Federation and TypeScript.
 <br/>
 🛠    I’m looking to collaborate on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
 <br/>

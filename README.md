@@ -15,15 +15,15 @@
 <br />
 🏆 SheHacks 2020 Wolfram Alpha Award | Best Use of Google Cloud - Team Trash Panda <a href="https://trash-panda-shehacks.web.app/">Trash Panda Live</a> | <a href="https://github.com/tiffanynk/trash-panda-fe">Trash Panda Repo</a>
 <br/>
-👩🏾‍💻   I’m currently working on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a> and <a href="https://github.com/sydneygold/dmveasy-frontend">DMVeasy</a>.
+👩🏾‍💻   My personal project outside of work: <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>.
 <br/>
 🌱   I’m currently learning Next.js, Elixir, and GraphQL.
 <br/>
-💡    I'm looking forward to learning Apollo + Apollo Federation and TypeScript.
+💡    I'm looking forward to learning Apollo + Apollo Federation.
 <br/>
 🛠    I’m looking to collaborate on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
 <br/>
-🤔   I’m looking for help with responsive design and complex data structures.
+🤔   I’m looking for help with design patterns in TypeScript and Ruby.
 <br/>
 😄   Pronouns: she/her
 <br/>

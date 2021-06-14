@@ -31,16 +31,21 @@
 <br />
 Languages and Tools: 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/redux/redux-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/css3/css3-plain.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/html5/html5-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/mongodb/mongodb-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/nodejs/nodejs-plain.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/materialui/materialui-plain.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/gimp/gimp-plain.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/illustrator/illustrator-plain.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg"></code> 
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/redux/redux-original.svg">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> 
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/css3/css3-plain.svg"> 
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/html5/html5-plain.svg">
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/mongodb/mongodb-plain.svg">
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/nodejs/nodejs-plain.svg"> 
+<img height="20" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/materialui/materialui-plain.svg">
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/gimp/gimp-plain.svg">
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/illustrator/illustrator-plain.svg">
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg">

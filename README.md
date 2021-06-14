@@ -7,10 +7,6 @@
   <img align="left" alt="Tiffany's LinkedIn" width="21px" src="https://user-images.githubusercontent.com/68958970/94946276-dc7b8a00-04a9-11eb-9431-366689b9fa06.png" />
 </a>
 <a href="https://devpost.com/tiffany-nit-k"><img src="https://i.ibb.co/xMyBKxh/devpost-16.png" alt="devpost-16" border="0"></a>
-<a href="https://www.codewars.com/users/tiffanynk/">
-  <img align="left" alt="Tiffany's CodeWars" src="https://www.codewars.com/users/tiffanynk/badges/micro" />
-</a>
-
 <br />
 <br />
 🏆 SheHacks 2020 Wolfram Alpha Award | Best Use of Google Cloud - Team Trash Panda <a href="https://trash-panda-shehacks.web.app/">Trash Panda Live</a> | <a href="https://github.com/tiffanynk/trash-panda-fe">Trash Panda Repo</a>

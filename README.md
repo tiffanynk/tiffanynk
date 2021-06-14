@@ -17,13 +17,11 @@
 <br/>
 👩🏾‍💻   My personal project outside of work: <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>.
 <br/>
-🌱   I’m currently learning Next.js, Elixir, and GraphQL.
-<br/>
-💡    I'm looking forward to learning Apollo + Apollo Federation.
+🧠   I’m currently learning Next.js, Elixir, and GraphQL.
 <br/>
 🛠    I’m looking to collaborate on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
 <br/>
-🤔   I’m looking for help with design patterns in TypeScript and Ruby.
+❓   I’m looking for help with design patterns in TypeScript and Ruby.
 <br/>
 😄   Pronouns: she/her
 <br/>

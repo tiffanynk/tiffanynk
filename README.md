@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/tiffany-kanjanabout/">
   <img align="left" alt="Tiffany's LinkedIn" width="21px" src="https://user-images.githubusercontent.com/68958970/94946276-dc7b8a00-04a9-11eb-9431-366689b9fa06.png" />
 </a>
-<a href="https://devpost.com/tiffany-nit-k"><img src="https://i.ibb.co/xMyBKxh/devpost-16.png" alt="devpost-16" border="0"></a>
+<a href="https://devpost.com/tiffany-nit-k"><img src="https://cloud.githubusercontent.com/assets/1568188/9013761/015a9a50-378c-11e5-92b5-ca6cacf63e26.png" alt="devpost"  width="18px" border="0"></a>
 <br />
 <br />
 🏆 SheHacks 2020 Wolfram Alpha Award | Best Use of Google Cloud - Team Trash Panda <a href="https://trash-panda-shehacks.web.app/">Trash Panda Live</a> | <a href="https://github.com/tiffanynk/trash-panda-fe">Trash Panda Repo</a>

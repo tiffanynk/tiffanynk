@@ -11,9 +11,7 @@
 <br />
 🏆 SheHacks 2020 Wolfram Alpha Award | Best Use of Google Cloud - Team Trash Panda <a href="https://trash-panda-shehacks.web.app/">Trash Panda Live</a> | <a href="https://github.com/tiffanynk/trash-panda-fe">Trash Panda Repo</a>
 <br/>
-👩🏾‍💻   My personal project outside of work: <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>.
-<br/>
-🧠   I’m currently learning Next.js, Elixir, and GraphQL.
+👩🏾‍💻🧠  Learning Apollo GQL on Rails and Next.js TypeScript as I contribute building out an educational platform!
 <br/>
 🛠    I’m looking to collaborate on <a href="https://github.com/tiffanynk/women-who-climb-capstone">Women Who Climb</a>
 <br/>
